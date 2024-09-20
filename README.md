@@ -1,4 +1,4 @@
-## HI 👋
+
 ![banner](baner.png)
 <h1>Hola, soy Matias Silva, estudiante de Ciencias de la Computación. 🚀<h1>
 
